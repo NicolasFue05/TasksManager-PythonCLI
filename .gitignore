@@ -1,0 +1,5 @@
+sqlalchemy_env/
+streamlit_env/
+alembic/
+__pycache__/
+database.db
