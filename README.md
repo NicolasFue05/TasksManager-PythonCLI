@@ -82,6 +82,7 @@ task-management-app/
  - **main.py**: Contiene la lógica principal de la aplicación, donde se agregan, actualizan, eliminan y listan las tareas.
 - **db.py**: Configuración de la base de datos usando SQLAlchemy. Aquí se inicializa la conexión con la base de datos y se configura el manejo de las sesiones.
 - **models.py**: Define el modelo de datos de las tareas (tabla Task) usando SQLAlchemy.
+- **tasks.py**: Maneja el uso de la entidad Tareas 
 - **requirements.txt**: Lista de dependencias que se deben instalar para ejecutar la aplicación.
 
 
